@@ -1,12 +1,12 @@
 {
     "name": "Kaynã de Camargo",
     "role": "Software engineer",
+    "intro": "Software engineer passionate about Rust.",
     "stack": [
         { "language": "Rust", "imagePath": "/src/assets/rust.svg" },
         { "language": "TypeScript", "imagePath": "/src/assets/typescript.svg" },
         { "language": "Ruby", "imagePath": "/src/assets/ruby.svg" }
     ],
-    "intro": "Software engineer passionate about Rust.",
     "socials": [
         {
             "name": "Github",
