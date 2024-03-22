@@ -13,6 +13,9 @@ function App({ info }: AppProps) {
                 <div className="text-4xl md:text-8xl">{info.name}</div>
                 <div className="text-lg md:text-3xl mb-8">{info.role}</div>
                 <StackShowcase stack={info.stack} />
+                <text className="mt-16 w-1/4 text-center text-md">
+                    {info.intro}
+                </text>
             </section>
         </>
     );
