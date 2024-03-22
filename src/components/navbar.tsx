@@ -13,7 +13,7 @@ function Navbar({ socials }: NavbarProps) {
         <nav className="flex flex-row items-center justify-end py-4 space-x-4 px-8">
             {socials.map((social) => (
                 <img
-                    className="h-8"
+                    className="h-8 cursor-pointer"
                     src={social.imagePath}
                     onClick={() => openInNewTab(social.url)}
                 />
