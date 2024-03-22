@@ -11,17 +11,17 @@
         {
             "name": "Github",
             "url": "https://github.com/rhwd",
-            "imagePath": "/src/assets/github.svg"
+            "imagePath": "/assets/github.svg"
         },
         {
             "name": "LinkedIn",
             "url": "https://www.linkedin.com/in/kdecamargo/",
-            "imagePath": "/src/assets/linkedin.svg"
+            "imagePath": "/assets/linkedin.svg"
         },
         {
             "name": "Email",
             "url": "mailto:kayna30p@gmail.com",
-            "imagePath": "/src/assets/email.svg"
+            "imagePath": "/assets/email.svg"
         }
     ]
 }
