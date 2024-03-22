@@ -1,5 +1,5 @@
 import Navbar from "./components/navbar";
-import StackShowcase from "./components/stack";
+import StackShowcase from "./components/stackShowcase";
 import Info from "./types/info";
 interface AppProps {
     info: Info;
