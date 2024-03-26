@@ -1,7 +1,7 @@
 {
     "name": "Kaynã de Camargo",
     "role": "Software engineer",
-    "intro": "Software engineer with +5 Years of experience on a very diverse background, consisting in SAAS, Management, and other fields. I’m interested in AI & Rust development and in my free time I work on these skills mainly by developing small, public projects on Github. My current goal is skilling up in AI and ML fields, and possibly working on tools in these fields on a fast and memory safe language - such as Rust.",
+    "intro": "Software engineer with +5 Years of experience on a very diverse background, consisting in SAAS, Management, and other fields. I’m interested in AI & Fullstack development and in my free time I work on these skills mainly by developing small, public projects on Github. My current goal is skilling up in AI and ML fields, and possibly working on tools in these fields.",
     "stack": [
         { "language": "Rust", "imagePath": "/assets/rust.svg" },
         { "language": "TypeScript", "imagePath": "/assets/typescript.svg" },
